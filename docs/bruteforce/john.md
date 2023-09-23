@@ -17,10 +17,9 @@ The jumbo package contains John and all nice-to-have packages of John (zip2john,
 ## Usage
 Dictionary Attack 
 
-``` bash
-john --wordlist=</path/to/wordlist> <hash file>
-```
+{% highlight bash %}
+john --wordlist=</path/to/wordlist> <hashfile>
+{% endhighlight %}
 
-hej
-
+## Creating John hashfiles
 
