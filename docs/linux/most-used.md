@@ -11,6 +11,7 @@ A (non-comprehensive) list of linux commands to help with general use.
 
 | **Command** | **Explanation** |
 |:-----------:|:---------------:|
-|`ls`             |List files in dir                 |
-|             |                 |
-|             |                 |
+|`ls`             |List files in directory                 |
+|  `cd`          |Change directory                 |
+|`pwd`|Prints name of current directory|
+
