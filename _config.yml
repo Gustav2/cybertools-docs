@@ -32,6 +32,14 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 color_scheme: dark
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+
 kramdown:
   syntax_highlighter_opts:
     block:

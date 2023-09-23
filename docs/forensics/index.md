@@ -6,3 +6,7 @@ nav_order: 5
 ---
 
 # Forensics Index
+* Volatility
+* Autopsy
+* Binwalk / Foremost
+* Magic Numbers (PNG etc.)
